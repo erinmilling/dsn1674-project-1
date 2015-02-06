@@ -11,29 +11,60 @@ a{
   color: white;
   display: inline-block;
 }
-a:hover {
-  color: blue;
 
-}
 header {
   background-color: lightpink;
-  padding: 1em 1em 0em 1em;
+  padding: 1em 0em;
   text-align: center;
   margin: 0em;
 }
 nav a {
   display: inline-block;
-  padding: 0.5em 0.75em;
-  background-color: black;
   color: white;
   text-decoration: none;
+  border: 3px solid grey;
+  padding: 0.5em 0.5em;
+  border-radius: 12px;
+  background-color: grey;
+
+}
+nav a:hover {
+  background-color: black;
+  border: 3px solid black;
+
 }
 nav li {
-  display: inline-block;
-  padding: .25em;
-  margin: .15em;
-  border: 1px solid black;
-  border-radius: 4px;
-  background-color: black;
+  display: inline;
+
+}
+nav ol {
   list-style-type: none;
+  padding: 0;
+}
+body{
+  margin: 0;
+  padding:0;
+}
+main{
+  padding: 1em;
+}
+blockquote, cite {
+  font-family: 'Lobster Two', cursive;
+  color: grey;
+  font-size: 1.25em;
+  display: block;
+  text-align: center;
+  margin: 1em;
+
+}
+.quote {
+  display: block;
+  text-align: center;
+  font-size: 2em;
+}
+p{
+
+}
+.strong {
+  font-weight: 700;
 }
