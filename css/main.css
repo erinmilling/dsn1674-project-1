@@ -7,3 +7,33 @@ h1 {
   color: lavender;
   font-family: 'Lobster Two', cursive;
 }
+a{
+  color: white;
+  display: inline-block;
+}
+a:hover {
+  color: blue;
+
+}
+header {
+  background-color: lightpink;
+  padding: 1em 1em 0em 1em;
+  text-align: center;
+  margin: 0em;
+}
+nav a {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+nav li {
+  display: inline-block;
+  padding: .25em;
+  margin: .15em;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: black;
+  list-style-type: none;
+}
