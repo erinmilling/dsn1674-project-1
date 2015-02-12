@@ -13,6 +13,7 @@ h2 {
   color: lavender;
   font-family: 'Lobster Two', cursive;
   font-size: 3em;
+  margin: .5em 0em .5em 0em;
 }
 a{
   color: white;
@@ -74,4 +75,11 @@ p{
 }
 .strong {
   font-weight: 700;
+}
+hr {
+  width: 100%;
+  height: 3px;
+  background: lightpink;
+  margin: 2em 0em 0em 0em;
+  border: 6em;
 }
