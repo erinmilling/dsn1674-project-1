@@ -90,8 +90,8 @@ figure {
   border: 3px solid grey;
   background: lightgrey;
   border-radius: 20px;
-  padding: .5em 5em .5em .5em;
-  margin: 1em 0em 1em 0em;
+  padding: 1em 5em .5em 1em;
+  margin: 1em .5em 1em .5em;
 
 
 }
@@ -101,4 +101,24 @@ figcaption {
   text-align: center;
   font-family: 'Lobster Two', cursive;
 
+}
+h3 {
+  color: lavender;
+  font-family: 'Lobster Two', cursive;
+  font-size: 2em;
+  margin: .5em 0em .5em 0em;
+}
+i {
+  padding: 0em 0em 1em 0em;
+  display: block;
+
+}
+dt {
+  font-weight: bolder;
+  color: black;
+}
+dd {
+  color: lavender;
+  padding: 0;
+  margin: 0
 }
