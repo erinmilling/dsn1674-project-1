@@ -6,6 +6,13 @@ html {
 h1 {
   color: lavender;
   font-family: 'Lobster Two', cursive;
+  font-size: 5em;
+  margin: 0em;
+}
+h2 {
+  color: lavender;
+  font-family: 'Lobster Two', cursive;
+  font-size: 3em;
 }
 a{
   color: white;
