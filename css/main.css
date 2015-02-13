@@ -14,6 +14,8 @@ h2 {
   font-family: 'Lobster Two', cursive;
   font-size: 3em;
   margin: .5em 0em .5em 0em;
+  border-top: 3px solid lightpink;
+  padding: .5em 0em 0em 0em
 }
 a{
   color: #FFFFFF;
@@ -62,9 +64,6 @@ blockquote {
   font-size: 1.25em;
   display: block;
   text-align: center;
-  margin: 1em;
-  border-bottom: 3px solid lightpink;
-  padding: 0em 0em 3em 0em;
 
 }
 
@@ -129,8 +128,4 @@ dd {
   border: 1em 2em 2em 2em;
   text-align: center;
   display: block;
-}
-.line{
-  border-bottom: 3px solid lightpink;
-  padding: 0em 0em 3em 0em;
 }
