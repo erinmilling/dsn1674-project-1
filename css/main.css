@@ -4,13 +4,13 @@ html {
   font-size: 1em;
 }
 h1 {
-  color: #E6E6FA;
+  color: #CCCCFF;
   font-family: 'Lobster Two', cursive;
   font-size: 5em;
   margin: 0em;
 }
 h2 {
-  color: #E6E6FA;
+  color: #CCCCFF;
   font-family: 'Lobster Two', cursive;
   font-size: 3em;
   margin: .5em 0em .5em 0em;
@@ -103,7 +103,7 @@ figcaption {
 
 }
 h3 {
-  color: #E6E6FA;
+  color: #CCCCFF;
   font-family: 'Lobster Two', cursive;
   font-size: 2em;
   margin: .5em 0em .5em 0em;
@@ -117,7 +117,7 @@ dt {
   color: #000000;
 }
 dd {
-  color: #E6E6FA;
+  color: #CCCCFF;
   padding: 0;
   margin: 0
 }
